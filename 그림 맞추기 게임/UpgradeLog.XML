@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PlzGame">
+</Property><Property Name="솔루션 파일" Value="D:\RedPlus.Temp\프로젝트따라하기\7-4 그림 맞추기\PlzGame.sln">
+</Property><Property Name="Date" Value="2009년 9월 8일 화요일">
+</Property><Property Name="Time" Value="오전 11:00">
+</Property></Properties><Event ErrorLevel="0" Project="PlzGame" Source="PlzGame.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="PlzGame" Source="PlzGame.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PlzGame.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="PlzGame.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PlzGame" Source="PlzGame.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>

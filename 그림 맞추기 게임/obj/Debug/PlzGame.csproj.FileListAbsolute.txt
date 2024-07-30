@@ -1,0 +1,30 @@
+D:\RedPlus.Temp\프로젝트따라하기\7-4 그림 맞추기\bin\Debug\PlzGame.exe
+D:\RedPlus.Temp\프로젝트따라하기\7-4 그림 맞추기\bin\Debug\PlzGame.pdb
+D:\RedPlus.Temp\프로젝트따라하기\7-4 그림 맞추기\obj\Debug\ResolveAssemblyReference.cache
+D:\RedPlus.Temp\프로젝트따라하기\7-4 그림 맞추기\obj\Debug\PlzGame.frmMain.resources
+D:\RedPlus.Temp\프로젝트따라하기\7-4 그림 맞추기\obj\Debug\PlzGame.frmOption.resources
+D:\RedPlus.Temp\프로젝트따라하기\7-4 그림 맞추기\obj\Debug\PlzGame.csproj.GenerateResource.Cache
+D:\RedPlus.Temp\프로젝트따라하기\7-4 그림 맞추기\obj\Debug\PlzGame.exe
+D:\RedPlus.Temp\프로젝트따라하기\7-4 그림 맞추기\obj\Debug\PlzGame.pdb
+C:\Users\eodlf\Desktop\그림 맞추기 게임\bin\Debug\PlzGame.exe
+C:\Users\eodlf\Desktop\그림 맞추기 게임\bin\Debug\PlzGame.pdb
+C:\Users\eodlf\Desktop\그림 맞추기 게임\obj\Debug\PlzGame.csproj.AssemblyReference.cache
+C:\Users\eodlf\Desktop\그림 맞추기 게임\obj\Debug\PlzGame.frmMain.resources
+C:\Users\eodlf\Desktop\그림 맞추기 게임\obj\Debug\PlzGame.frmOption.resources
+C:\Users\eodlf\Desktop\그림 맞추기 게임\obj\Debug\PlzGame.csproj.GenerateResource.cache
+C:\Users\eodlf\Desktop\그림 맞추기 게임\obj\Debug\PlzGame.csproj.CoreCompileInputs.cache
+C:\Users\eodlf\Desktop\그림 맞추기 게임\obj\Debug\PlzGame.exe
+C:\Users\eodlf\Desktop\그림 맞추기 게임\obj\Debug\PlzGame.pdb
+C:\Users\eodlf\Desktop\C# 문제 제작안\그림 맞추기 게임\bin\Debug\PlzGame.exe
+C:\Users\eodlf\Desktop\C# 문제 제작안\그림 맞추기 게임\bin\Debug\PlzGame.pdb
+C:\Users\eodlf\Desktop\C# 문제 제작안\그림 맞추기 게임\obj\Debug\PlzGame.csproj.AssemblyReference.cache
+C:\Users\eodlf\Desktop\C# 문제 제작안\그림 맞추기 게임\obj\Debug\PlzGame.frmMain.resources
+C:\Users\eodlf\Desktop\C# 문제 제작안\그림 맞추기 게임\obj\Debug\PlzGame.frmOption.resources
+C:\Users\eodlf\Desktop\C# 문제 제작안\그림 맞추기 게임\obj\Debug\PlzGame.csproj.GenerateResource.cache
+C:\Users\eodlf\Desktop\C# 문제 제작안\그림 맞추기 게임\obj\Debug\PlzGame.csproj.CoreCompileInputs.cache
+C:\Users\eodlf\Desktop\C# 문제 제작안\그림 맞추기 게임\obj\Debug\PlzGame.exe
+C:\Users\eodlf\Desktop\C# 문제 제작안\그림 맞추기 게임\obj\Debug\PlzGame.pdb
+C:\Users\kgm09\Downloads\그림 맞추기 게임\obj\Debug\PlzGame.exe
+C:\Users\kgm09\Downloads\그림 맞추기 게임\obj\Debug\PlzGame.pdb
+D:\그림 맞추기 게임\obj\Debug\PlzGame.exe
+D:\그림 맞추기 게임\obj\Debug\PlzGame.pdb
